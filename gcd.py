@@ -1,5 +1,5 @@
 #print gcd of 2 numbers
-a=10
+a=34
 b=23
 
 #import the library
