@@ -1,2 +1,2 @@
 # pythoncode
-sample of python codes i wrote
+sample of python codes i wrote for learing purpose
