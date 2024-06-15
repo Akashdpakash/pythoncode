@@ -9,4 +9,4 @@ gcd=math.gcd(num1,num2)
 
 #print gcd 
 
-print(f"Gcd of 100 and 133 is {gcd}")
+print(f"Gcd of {num1} and {num2} is {gcd}")
