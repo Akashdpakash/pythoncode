@@ -36,3 +36,4 @@ jobs:
       run: |
         python gcd.py
         python gcd100333.py
+        pythoh sort.py
